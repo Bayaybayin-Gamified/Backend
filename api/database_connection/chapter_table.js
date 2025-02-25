@@ -50,7 +50,7 @@ async function deleteChapter(Chapter_ID){
 
 /*
 ======================================
-END OF STORY FUNCTIONS
+END OF CHAPTER FUNCTIONS
 ======================================
 */ 
 
